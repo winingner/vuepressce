@@ -16,6 +16,5 @@ export default ({
         {text:'导航首页',link:'/guide/'},
         {text:'图形界面',link:'/graphic_pageone.md'}
     ],
-    lastUpdated:true,
   }),
 })
